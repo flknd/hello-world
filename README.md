@@ -1,2 +1,4 @@
 # hello-world
-Learning something new here
+
+This version is different from the master branch.
+Keep that in mind.
