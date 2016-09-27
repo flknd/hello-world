@@ -1,2 +1,4 @@
 # hello-world
-Learning something new here
+Hello humans!
+
+Coding is really fun right now :)
